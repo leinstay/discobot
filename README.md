@@ -16,7 +16,7 @@ First make sure you have all the required tools installed on your machine then c
 
 ```bash
 # Clone the repository
-git clone https://github.com/
+git clone https://github.com/leinstay/discobot.git
 
 # Enter into the directory
 cd dmbot/

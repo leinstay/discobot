@@ -11,6 +11,10 @@
     "SHOUTcast",
     "radio"
   ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/leinstay/discobot.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
