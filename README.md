@@ -2,6 +2,8 @@
 
 A simple commandless discord bot for 24/7 streaming of internet radio stations (e.g. SHOUTcast).
 
+![Discobot](https://i.imgur.com/pI3KB9I.png)
+
 ## Requirements
 
 - [Node] (https://nodejs.org/en/)
@@ -93,11 +95,6 @@ pm2 start index.js --name DiscoBot --log bot.log --time --restart-delay 5000 & p
 ```bash
 node index.js
 ```
-
-## Preview
-Using free AWS servers you can keep an unlimited number of music radio stations on your Discord server.
-
-![Discobot](https://i.imgur.com/pI3KB9I.png)
 
 ## Author
 
