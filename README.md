@@ -97,7 +97,7 @@ node index.js
 ## Preview
 Using free AWS servers you can keep an unlimited number of music radio stations on your Discord server.
 
-![Discobot](https://i.imgur.com/EOsA6s3.png)
+![Discobot](https://i.imgur.com/pI3KB9I.png)
 
 ## Author
 
