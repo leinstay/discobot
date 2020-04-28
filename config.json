@@ -1,0 +1,13 @@
+{
+	"prefix":"{COMMAND PREFIX}",
+	"token":"{BOT TOKEN}",
+	"voicechannel":"{VOICE CHANNEL ID}",
+	"logchannel":"{TEXT CHANNEL ID}",
+	"activity":"{DEFAULT BOT ACTIVITY}",
+	"list":[
+	{
+		"name":"{RADIO NAME}",
+		"url":"{RADIO URL}"
+	}
+	]
+}

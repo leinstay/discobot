@@ -1,0 +1,27 @@
+{
+  "name": "discobot",
+  "version": "1.0.0",
+  "description": "A simple commandless discord bot for 24/7 streaming of internet radio stations (e.g. SHOUTcast).",
+  "main": "index.js",
+  "keywords": [
+    "discord",
+    "music",
+    "bot",
+    "24/7",
+    "SHOUTcast",
+    "radio"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladimir \"Leinstay\" Belyaev",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.1.0",
+    "cron": "^1.8.2",
+    "discord.js": "^12.1.1",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "icy": "^2.1.0"
+  }
+}
