@@ -21,7 +21,7 @@
   "author": "Vladimir \"Leinstay\" Belyaev",
   "license": "MIT",
   "dependencies": {
-    "@discordjs/opus": "^0.1.0",
+    "@discordjs/opus": "^0.8.0",
     "cron": "^1.8.2",
     "discord.js": "^12.1.1",
     "ffmpeg": "0.0.4",
