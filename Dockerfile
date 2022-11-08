@@ -14,3 +14,4 @@ COPY . /usr/src/bot
 
 # Start the bot.
 CMD ["node", "index.js"]
+
