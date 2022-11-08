@@ -8,3 +8,4 @@ stop: ## Stops the container
 	docker stop discobot
 
 restart: stop start ## Restart container
+
