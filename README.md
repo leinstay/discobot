@@ -14,7 +14,24 @@ A simple commandless discord bot for 24/7 streaming of internet radio stations (
 
 First make sure you have all the required tools installed on your machine then continue with these steps.
 
-### Installation
+
+### Installation using Docker
+
+```shell
+
+# Clone the repository
+git clone https://github.com/leinstay/discobot.git
+
+# Build the image
+make build
+
+# Start the image 
+make start
+
+```
+
+
+### Installation using npm
 
 ```bash
 # Clone the repository
