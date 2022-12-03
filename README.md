@@ -112,12 +112,3 @@ pm2 start index.js --name DiscoBot --log bot.log --time --restart-delay 5000 & p
 ```bash
 node index.js
 ```
-
-## Author
-
-Vladimir "Leinstay" Belyaev
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
-
