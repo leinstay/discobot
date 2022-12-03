@@ -1,6 +1,6 @@
 {
   "name": "@leinstay/discobot",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple commandless discord bot for 24/7 streaming of internet radio stations (e.g. SHOUTcast).",
   "main": "index.js",
   "keywords": [
