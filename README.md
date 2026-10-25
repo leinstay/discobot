@@ -61,8 +61,4 @@ Several entries make a playlist. Any direct link to an MP3 works, so the same co
 
 ## License and credits
 
-MIT License, see [LICENSE](LICENSE).
-
-* [discord.js](https://discord.js.org/) 12 and [@discordjs/opus](https://github.com/discordjs/opus): Apache-2.0 and MIT Licenses
-* [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg): MIT License
-* [icy](https://github.com/TooTallNate/node-icy) by Nathan Rajlich: MIT License
+MIT License, see [LICENSE](LICENSE). Built on [discord.js](https://discord.js.org/) 12 (Apache-2.0) with [@discordjs/opus](https://github.com/discordjs/opus) (MIT), [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) (MIT) and [icy](https://github.com/TooTallNate/node-icy) by Nathan Rajlich (MIT).
